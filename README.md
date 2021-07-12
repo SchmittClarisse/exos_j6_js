@@ -4,7 +4,6 @@
 <h3>1. Introduction</h3>
 
 <p>Dans cette journée, tu vas apprendre à utiliser le principe de récursivité. Ce dernier te sera très utile pour réaliser les prochains objectifs de la semaine.</p>
-<br>
 <p>Pas de super projet à réaliser aujourd'hui, juste une petite liste d'exercices allant crescendo en difficulté, ton objectif sera d'aller le plus loin possible.</p>
 
 <h3>2. Les exercices</h3>
@@ -14,7 +13,5 @@
 <h3>3. Rendu attendu</h3>
 
 <p>Un fichier par fonction, sauf pour les exercices avec méthode itérative + récursive (mettre les 2 fonctions dans un même fichier). Pour cette semaine qui est portée sur l'algorithmie, pas besoin d'avoir de fichier HTML pour inclure notre JS. Tu peux exécuter ton code directement dans ton terminal en faisant node monFichier.js.</p>
-<br>
 <p>Pour tester tes fonctions, tu pourras tout simplement faire par exemple console.log(isPrimeNumber(15)); à la fin de ton fichier.</p>
-<br>
 <p>Pense à bien tester tes fonctions avec plusieurs paramètres différents, dont des nombres négatifs et nuls, pour voir comment ta fonction se comporte !</p>
