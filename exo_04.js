@@ -7,4 +7,4 @@ const isPrimeNumber = (n) => {
     }
     return true
 }
-console.log(isPrimeNumber(17))
+console.log(isPrimeNumber(6))
